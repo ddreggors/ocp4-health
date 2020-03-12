@@ -1,4 +1,4 @@
 # Replicasets
 Scripts for checking the Replicasets
 
-* [Replicaset Health]("rshealth.md")
+* [Replicaset Health](/Replicasets/rshealth.md)
