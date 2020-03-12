@@ -4,7 +4,7 @@ A few scripts for checking OCP4 cluster health
 ## Nodes
 Scripts for checking the Nodes
 
-* [DNS Nat Check](/blob/master/Nodes/dns_nat_chk.md)
+* [DNS Nat Check](/Nodes/dns_nat_chk.md)
 
 ## Operators
 Scripts for checking the operators
@@ -18,4 +18,4 @@ Scripts for checking the pods
 ## Replicasets
 Scripts for checking the Replicasets
 
-* [Replicaset Health](/blob/master/Replicasets/rshealth.md)
+* [Replicaset Health](/Replicasets/rshealth.md)
